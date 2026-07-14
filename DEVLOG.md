@@ -1,33 +1,28 @@
-# TEO Development Log
+# Commit History
+
+## Commit #1
+Date: 2026-07-15
+
+Title:
+Initial TEO project foundation
+
+Highlights:
+- Project structure
+- Vision
+- Architecture
+- Flask
+- First working application
 
 ---
 
-## Milestone 1 – Minnow
+## Commit #2
 
-Date: 2026-07-15
+Title:
+Refactor Flask application structure
 
-Status:
-✅ Completed
-
-Achievements:
-
-- Project architecture defined
-- Vision document created
-- Architecture document created
-- Development environment configured
-- Git repository initialized
-- Python virtual environment created
-- Flask installed
-- First Flask application created
-- TEO successfully running locally
-
-Lessons Learned:
-
-- Invest in architecture before writing code.
-- Keep milestones small.
-- Build one concept at a time.
-- Separate decisions from implementation.
-
-Next Milestone:
-
-Create the first real user interface.
+Highlights:
+- Jinja templates
+- Base template
+- CSS support
+- Application package finalized
+- Template resolution fixed
