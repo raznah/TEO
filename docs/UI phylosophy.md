@@ -1,0 +1,1 @@
+Every screen in TEO should answer a question.
