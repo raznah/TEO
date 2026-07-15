@@ -2,41 +2,88 @@
 <html lang="en">
 
 <head>
+
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>{% block title %}Tyrian Economic Optimizer{% endblock %}</title>
 
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- Bootstrap -->
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css"
+          rel="stylesheet">
+
+    <!-- TEO Styles -->
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+
 </head>
 
 <body>
 
-<header>
-    <h1>Tyrian Economic Optimizer</h1>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 
-    <nav>
-        <a href="/">Dashboard</a>
-        <a href="#">Modules</a>
-        <a href="#">Settings</a>
-    </nav>
+    <div class="container">
 
-    <hr>
-</header>
+        <a class="navbar-brand fw-bold" href="/">
 
-<main>
+            TEO
+
+        </a>
+
+        <button class="navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#navbarNav">
+
+            <span class="navbar-toggler-icon"></span>
+
+        </button>
+
+        <div class="collapse navbar-collapse"
+             id="navbarNav">
+
+            <ul class="navbar-nav">
+
+                <li class="nav-item">
+
+                    <a class="nav-link active"
+                       href="/">Dashboard</a>
+
+                </li>
+
+                <li class="nav-item">
+
+                    <a class="nav-link"
+                       href="#">Activities</a>
+
+                </li>
+
+                <li class="nav-item">
+
+                    <a class="nav-link"
+                       href="#">Planner</a>
+
+                </li>
+
+            </ul>
+
+        </div>
+
+    </div>
+
+</nav>
+
+<div class="container mt-5">
 
 {% block content %}
 {% endblock %}
 
-</main>
+</div>
 
-<footer>
-
-<hr>
-
-<p>TEO © 2026</p>
-
-</footer>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
 
