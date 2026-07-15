@@ -1,0 +1,39 @@
+[
+    {
+        "id": "festival_of_the_four_winds",
+        "name": "Festival of the Four Winds",
+		"festival_url": "https://wiki.guildwars2.com/wiki/Festival_of_the_Four_Winds",
+        "start": "2026-08-04",
+        "end": "2026-08-18",
+        "location": "Labyrinthine Cliffs",
+		"location_url": "https://wiki.guildwars2.com/wiki/Labyrinthine_Cliffs",
+        "status": "annual"
+    },
+    {
+        "id": "dragon_bash",
+        "name": "Dragon Bash",
+        "start": "2027-06-23",
+        "end": "2027-07-14",
+        "location": "Hoelbrak",
+        "wiki_url": "https://wiki.guildwars2.com/wiki/Dragon_Bash",
+        "status": "annual"
+    },
+    {
+        "id": "shadow_of_the_mad_king",
+        "name": "Shadow of the Mad King",
+        "start": "2026-10-13",
+        "end": "2026-11-03",
+        "location": "Lion's Arch",
+        "wiki_url": "https://wiki.guildwars2.com/wiki/Shadow_of_the_Mad_King",
+        "status": "annual"
+    },
+    {
+        "id": "wintersday",
+        "name": "Wintersday",
+        "start": "2026-12-15",
+        "end": "2027-01-05",
+        "location": "Divinity's Reach",
+        "wiki_url": "https://wiki.guildwars2.com/wiki/Wintersday",
+        "status": "annual"
+    }
+]

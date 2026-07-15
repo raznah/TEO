@@ -1,5 +1,9 @@
 # Tyrian Economic Optimizer
 
+Current Release
+
+v0.1.0 Foundation
+
 ## Vision
 
 TEO is a desktop application designed to answer one question:

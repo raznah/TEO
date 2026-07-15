@@ -49,3 +49,12 @@ Bootstrap provides an excellent structural foundation.
 TEO's own CSS defines the application's identity.
 
 The dashboard should communicate purpose before functionality.
+
+### Milestone
+
+Implemented the first Knowledge Engine component.
+
+The Festival Engine successfully loads application resources from
+`teo/resources/festivals.json`.
+
+This establishes the architectural pattern that future modules will follow.

@@ -309,3 +309,16 @@ Simple solutions over complex ones.
 # Project Goal
 
 TEO should become the most comprehensive decision support application for Guild Wars 2 while remaining easy to understand, easy to extend and easy to maintain.
+
+## Knowledge Engine
+
+The Knowledge Engine is responsible for answering questions about Guild Wars 2.
+
+It exposes simple query functions such as:
+
+- get_current_festival()
+- get_next_festival()
+
+The user interface never accesses resource files directly.
+
+TEO provides guidance and links players to authoritative community resources rather than duplicating large amounts of reference information.

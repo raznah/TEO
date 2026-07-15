@@ -1,53 +1,42 @@
 {% extends "base.html" %}
 
 {% block title %}
-
 Dashboard
-
 {% endblock %}
 
 {% block content %}
 
 <h1 class="display-5">
-
-☀️ Good morning, sunshine!
-
+    ☀️ Good morning, sunshine!
 </h1>
 
 <p class="lead">
-
-Let's make some gold today.
-
+    Let's make some gold today.
 </p>
 
 <hr>
 
 <div class="row g-4">
 
+    <!-- Recommendation Panel -->
     <div class="col-lg-6">
 
         <div class="card h-100">
 
             <div class="card-header">
-
                 🎯 Recommendation
-
             </div>
 
             <div class="card-body">
 
                 <p>
-
                     Scout is exploring Tyria...
-
                 </p>
 
                 <p>
-
                     Future versions of TEO will recommend
                     the most profitable activity based on
                     your account, the market and active events.
-
                 </p>
 
             </div>
@@ -56,35 +45,80 @@ Let's make some gold today.
 
     </div>
 
+    <!-- Festival Panel -->
     <div class="col-lg-6">
 
         <div class="card h-100">
 
             <div class="card-header">
-
                 🎉 Festival
-
             </div>
 
             <div class="card-body">
 
-                <p>
+                {% if current_festival %}
 
-                    No festival is currently active.
+                    <h5>
+                        <a href="{{ current_festival.festival_url }}"
+                           target="_blank"
+                           rel="noopener noreferrer">
+                            {{ current_festival.name }}
+                        </a>
+                    </h5>
 
-                </p>
+                    <p>
+                        📍
+                        <a href="{{ current_festival.location_url }}"
+                           target="_blank"
+                           rel="noopener noreferrer">
+                            {{ current_festival.location }}
+                        </a>
+                    </p>
 
-                <p>
+                    <p>
+                        🎉 Festival Active
+                    </p>
 
-                    Enjoy the quieter days of Tyria.
+                {% elif next_festival %}
 
-                </p>
+                    <p>
+                        No festival is active today.
+                    </p>
 
-                <p>
+                    <hr>
 
-                    The next celebration will appear here.
+                    <p>
+                        <strong>Next Festival</strong>
+                    </p>
 
-                </p>
+                    <h5>
+                        <a href="{{ next_festival.festival_url }}"
+                           target="_blank"
+                           rel="noopener noreferrer">
+                            {{ next_festival.name }}
+                        </a>
+                    </h5>
+
+                    <p>
+                        📍
+                        <a href="{{ next_festival.location_url }}"
+                           target="_blank"
+                           rel="noopener noreferrer">
+                            {{ next_festival.location }}
+                        </a>
+                    </p>
+
+                    <p>
+                        ⏳ Starts in {{ next_festival.days_remaining }} days
+                    </p>
+
+                {% else %}
+
+                    <p>
+                        Scout couldn't find any festivals.
+                    </p>
+
+                {% endif %}
 
             </div>
 
