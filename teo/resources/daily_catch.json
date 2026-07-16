@@ -1,0 +1,110 @@
+{
+    "date": "2026-07-17",
+
+    "routes": [
+        {
+            "route_id": "arborstone",
+
+            "location": "Arborstone",
+
+            "region": "Cantha",
+
+            "fish_name": "",
+
+            "rarity": "",
+
+            "recommended_fishing_power": 0,
+
+            "vendor_group": "arborstone",
+
+            "reward": {
+                "item_name": "",
+                "quantity": 0
+            },
+
+            "fish_wiki_url": "",
+
+            "location_wiki_url": "",
+
+            "notes": ""
+        },
+        {
+            "route_id": "lowland_shore",
+
+            "location": "Lowland Shore",
+
+            "region": "Janthir Wilds",
+
+            "fish_name": "",
+
+            "rarity": "",
+
+            "recommended_fishing_power": 0,
+
+            "vendor_group": "janthir_shared",
+
+            "reward": {
+                "item_name": "",
+                "quantity": 0
+            },
+
+            "fish_wiki_url": "",
+
+            "location_wiki_url": "",
+
+            "notes": "Shares vendor with Janthir Syntri."
+        },
+        {
+            "route_id": "janthir_syntri",
+
+            "location": "Janthir Syntri",
+
+            "region": "Janthir Wilds",
+
+            "fish_name": "",
+
+            "rarity": "",
+
+            "recommended_fishing_power": 0,
+
+            "vendor_group": "janthir_shared",
+
+            "reward": {
+                "item_name": "",
+                "quantity": 0
+            },
+
+            "fish_wiki_url": "",
+
+            "location_wiki_url": "",
+
+            "notes": "Shares vendor with Lowland Shore."
+        },
+        {
+            "route_id": "mistburned_barrens",
+
+            "location": "Mistburned Barrens",
+
+            "region": "Janthir Wilds",
+
+            "fish_name": "",
+
+            "rarity": "",
+
+            "recommended_fishing_power": 0,
+
+            "vendor_group": "mistburned_barrens",
+
+            "reward": {
+                "item_name": "",
+                "quantity": 0
+            },
+
+            "fish_wiki_url": "",
+
+            "location_wiki_url": "",
+
+            "notes": ""
+        }
+    ]
+}

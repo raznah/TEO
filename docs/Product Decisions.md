@@ -97,3 +97,5 @@ The interface should reduce visual fatigue and avoid high-contrast or distractin
 ### Impact
 
 Favor muted colors, generous spacing, clear typography and subtle accents over flashy effects.
+
+Dashboard panels follow a Question → Answer pattern. Labels ask the question; the value directly beneath answers it. This creates a consistent reading pattern across the entire application.
