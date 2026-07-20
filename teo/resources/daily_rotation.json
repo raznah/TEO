@@ -1,4 +1,11 @@
 {
+    "metadata": {
+        "version": "1.0.0",
+        "source": "Manual Entry",
+        "description": "Current Daily Catch rotation used by Scout.",
+        "last_updated": ""
+    },
+
     "date": "",
 
     "routes": {
@@ -10,9 +17,9 @@
             "required_fish_id": ""
         },
 
-        "janthir_syntri": {
-            "required_fish_id": ""
-        },
+       "janthir_syntri": {
+		    "required_fish_id": "fish_0011"
+		},
 
         "mistburned_barrens": {
             "required_fish_id": ""

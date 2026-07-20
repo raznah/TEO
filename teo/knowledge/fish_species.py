@@ -1,23 +1,37 @@
 """
-Fish Species knowledge module.
+Fish Species Knowledge
 
-Provides access to the fish species knowledge base.
+Loads fish information used by Scout.
 """
 
-import json
-from pathlib import Path
-
-
-DATA_FILE = Path(__file__).resolve().parent.parent / "resources" / "fish_species.json"
+from teo.knowledge.loader import load_json
 
 
 def load_fish_species():
     """
-    Load the fish species database.
-
-    Returns:
-        dict: Fish species data.
+    Load the fish species knowledge base.
     """
 
-    with DATA_FILE.open(encoding="utf-8") as file:
-        return json.load(file)
+    return load_json("fish_species.json")
+
+
+def get_fish_species():
+    """
+    Return every fish.
+    """
+
+    return load_fish_species()["fish"]
+
+
+def get_fish(fish_id):
+    """
+    Return a fish by ID.
+    """
+
+    fish = get_fish_species()
+
+    for entry in fish:
+        if entry["fish_id"] == fish_id:
+            return entry
+
+    return None

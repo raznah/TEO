@@ -1,0 +1,179 @@
+{
+    "metadata": {
+        "version": "1.0.0",
+        "source": "Guild Wars 2 Wiki / ArenaNet",
+        "description": "Fishing pool knowledge used by Scout.",
+        "last_verified": "2026-07-20"
+    },
+
+    "fishing_pools": [
+        {
+            "pool_id": "barrens_freshwater",
+            "display_name": "Barrens Freshwater Fish",
+            "expansion": "Secrets of the Obscure",
+            "water_type": "Freshwater",
+            "notes": ""
+        },
+        {
+            "pool_id": "bloodstone_infused_pond",
+            "display_name": "Bloodstone-Infused Pond Fish",
+            "expansion": "Living World Season 3",
+            "water_type": "Pond",
+            "notes": ""
+        },
+        {
+            "pool_id": "boreal",
+            "display_name": "Boreal Fish",
+            "expansion": "Icebrood Saga",
+            "water_type": "Boreal",
+            "notes": ""
+        },
+        {
+            "pool_id": "brackish_janthir",
+            "display_name": "Brackish Janthir Fish",
+            "expansion": "Janthir Wilds",
+            "water_type": "Brackish",
+            "notes": ""
+        },
+        {
+            "pool_id": "coastal",
+            "display_name": "Coastal Fish",
+            "expansion": "Core Tyria",
+            "water_type": "Coastal",
+            "notes": ""
+        },
+        {
+            "pool_id": "deep_world_saltwater",
+            "display_name": "Deep World Saltwater Fish",
+            "expansion": "Core Tyria",
+            "water_type": "Saltwater",
+            "notes": ""
+        },
+        {
+            "pool_id": "fractured_channel",
+            "display_name": "Fractured Channel Fish",
+            "expansion": "Secrets of the Obscure",
+            "water_type": "Channel",
+            "notes": ""
+        },
+        {
+            "pool_id": "freshwater_janthir",
+            "display_name": "Freshwater Janthir Fish",
+            "expansion": "Janthir Wilds",
+            "water_type": "Freshwater",
+            "notes": ""
+        },
+        {
+            "pool_id": "freshwater_tropical",
+            "display_name": "Freshwater Tropical Fish",
+            "expansion": "End of Dragons",
+            "water_type": "Freshwater",
+            "notes": ""
+        },
+        {
+            "pool_id": "lake",
+            "display_name": "Lake Fish",
+            "expansion": "Core Tyria",
+            "water_type": "Lake",
+            "notes": ""
+        },
+        {
+            "pool_id": "lowland_brackish",
+            "display_name": "Lowland Brackish Fish",
+            "expansion": "Janthir Wilds",
+            "water_type": "Brackish",
+            "notes": ""
+        },
+        {
+            "pool_id": "lowland_freshwater",
+            "display_name": "Lowland Freshwater Fish",
+            "expansion": "Janthir Wilds",
+            "water_type": "Freshwater",
+            "notes": ""
+        },
+        {
+            "pool_id": "lowland_offshore",
+            "display_name": "Lowland Offshore Fish",
+            "expansion": "Janthir Wilds",
+            "water_type": "Offshore",
+            "notes": ""
+        },
+        {
+            "pool_id": "lowland_shore",
+            "display_name": "Lowland Shore Fish",
+            "expansion": "Janthir Wilds",
+            "water_type": "Shore",
+            "notes": ""
+        },
+        {
+            "pool_id": "mysterious_waters",
+            "display_name": "Mysterious Waters Fish",
+            "expansion": "Secrets of the Obscure",
+            "water_type": "Freshwater",
+            "notes": ""
+        },
+        {
+            "pool_id": "offshore",
+            "display_name": "Offshore Fish",
+            "expansion": "Core Tyria",
+            "water_type": "Offshore",
+            "notes": ""
+        },
+        {
+            "pool_id": "offshore_saltwater_janthir",
+            "display_name": "Offshore Saltwater Janthir Fish",
+            "expansion": "Janthir Wilds",
+            "water_type": "Offshore Saltwater",
+            "notes": ""
+        },
+        {
+            "pool_id": "open_water",
+            "display_name": "Open Water",
+            "expansion": "Core Tyria",
+            "water_type": "Open Water",
+            "notes": ""
+        },
+        {
+            "pool_id": "rare",
+            "display_name": "Rare Fish",
+            "expansion": "Global",
+            "water_type": "Special",
+            "notes": "Special fishing pool that can yield rare fish."
+        },
+        {
+            "pool_id": "saltwater",
+            "display_name": "Saltwater Fish",
+            "expansion": "Core Tyria",
+            "water_type": "Saltwater",
+            "notes": ""
+        },
+        {
+            "pool_id": "saltwater_tropical",
+            "display_name": "Saltwater Tropical Fish",
+            "expansion": "End of Dragons",
+            "water_type": "Saltwater",
+            "notes": ""
+        },
+        {
+            "pool_id": "shore",
+            "display_name": "Shore Fish",
+            "expansion": "Core Tyria",
+            "water_type": "Shore",
+            "notes": ""
+        },
+        {
+            "pool_id": "shore_saltwater_janthir",
+            "display_name": "Shore Saltwater Janthir Fish",
+            "expansion": "Janthir Wilds",
+            "water_type": "Shore Saltwater",
+            "notes": ""
+        },
+        {
+            "pool_id": "volcanic",
+            "display_name": "Volcanic Fish",
+            "expansion": "Path of Fire",
+            "water_type": "Volcanic",
+            "notes": ""
+        }
+    ]
+}

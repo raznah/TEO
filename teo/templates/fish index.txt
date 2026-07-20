@@ -1,0 +1,443 @@
+[
+  {
+    "name": "Boreal Cod",
+    "description": "Double-click to convert to materials.",
+    "type": "Container",
+    "level": 0,
+    "rarity": "Masterwork",
+    "vendor_value": 128,
+    "game_types": [
+      "PvpLobby",
+      "Activity",
+      "Wvw",
+      "Dungeon",
+      "Pve"
+    ],
+    "flags": [
+      "AccountBound",
+      "NoSalvage",
+      "NoSell",
+      "AccountBindOnUse"
+    ],
+    "restrictions": [],
+    "id": 97456,
+    "chat_link": "[&AgGwfAEA]",
+    "icon": "https://render.guildwars2.com/file/EDF56040A4B51ACD96636C2746B73A05AC3A4869/2594432.png",
+    "details": {
+      "type": "Default"
+	  
+	  Acquisition
+Boreal Fish (chance)
+Lowland Brackish Fish (chance)
+Lowland Offshore Fish (chance)
+Lowland Shore Fish (chance)
+Offshore Saltwater Janthir Fish (chance)
+Shore Saltwater Janthir Fish (chance)
+
+    }
+  }
+]
+
+[
+  {
+    "name": "Cherry Salmon",
+    "description": "Double-click to convert to materials.",
+    "type": "Container",
+    "level": 0,
+    "rarity": "Masterwork",
+    "vendor_value": 128,
+    "game_types": [
+      "PvpLobby",
+      "Activity",
+      "Wvw",
+      "Dungeon",
+      "Pve"
+    ],
+    "flags": [
+      "AccountBound",
+      "NoSalvage",
+      "NoSell",
+      "AccountBindOnUse"
+    ],
+    "restrictions": [],
+    "id": 97278,
+    "chat_link": "[&AgH+ewEA]",
+    "icon": "https://render.guildwars2.com/file/71430BCCD796E46B1D0CFF534573E1229250D90D/2594648.png",
+    "details": {
+      "type": "Default"
+	  
+	  Acquisition
+Barrens Freshwater Fish (chance)
+Bloodstone-Infused Pond Fish (chance)
+Brackish Janthir Fish (chance)
+Freshwater Janthir Fish (chance)
+Lowland Brackish Fish (chance)
+Lowland Freshwater Fish (chance)
+Mysterious Waters Fish (chance)
+Shore Fish (chance)
+
+
+    }
+  }
+]
+
+[
+  {
+    "name": "White Bass",
+    "description": "Double-click to convert to materials.",
+    "type": "Container",
+    "level": 0,
+    "rarity": "Masterwork",
+    "vendor_value": 128,
+    "game_types": [
+      "PvpLobby",
+      "Activity",
+      "Wvw",
+      "Dungeon",
+      "Pve"
+    ],
+    "flags": [
+      "AccountBound",
+      "NoSalvage",
+      "NoSell",
+      "AccountBindOnUse"
+    ],
+    "restrictions": [],
+    "id": 97356,
+    "chat_link": "[&AgFMfAEA]",
+    "icon": "https://render.guildwars2.com/file/FE146C47D59049D855093DE714A3604DDBFE3D3B/2594430.png",
+    "details": {
+      "type": "Default"
+	  
+	  Acquisition
+Barrens Freshwater Fish (chance)
+Bloodstone-Infused Pond Fish (chance)
+Freshwater Janthir Fish (chance)
+Lake Fish (chance)
+Lowland Brackish Fish (chance)
+Lowland Freshwater Fish (chance)
+	  
+    }
+  }
+]
+
+[
+  {
+    "name": "Flowerhead",
+    "description": "Double-click to convert to materials.",
+    "type": "Container",
+    "level": 0,
+    "rarity": "Rare",
+    "vendor_value": 192,
+    "game_types": [
+      "PvpLobby",
+      "Activity",
+      "Wvw",
+      "Dungeon",
+      "Pve"
+    ],
+    "flags": [
+      "AccountBound",
+      "NoSalvage",
+      "NoSell",
+      "AccountBindOnUse"
+    ],
+    "restrictions": [],
+    "id": 102930,
+    "chat_link": "[&AgESkgEA]",
+    "icon": "https://render.guildwars2.com/file/7E7369BBC56D57E03FF19A3FB2CBC60FEE143AB5/3374949.png",
+    "details": {
+      "type": "Default"
+	  
+	  Acquisition
+Brackish Janthir Fish (chance)
+Freshwater Janthir Fish (chance)
+Offshore Saltwater Janthir Fish (chance)
+Shore Saltwater Janthir Fish (chance)
+	  
+    }
+  }
+]
+
+[
+  {
+    "name": "Icy Lumpfish",
+    "description": "Double-click to convert to materials.",
+    "type": "Container",
+    "level": 0,
+    "rarity": "Rare",
+    "vendor_value": 192,
+    "game_types": [
+      "PvpLobby",
+      "Activity",
+      "Wvw",
+      "Dungeon",
+      "Pve"
+    ],
+    "flags": [
+      "AccountBound",
+      "NoSalvage",
+      "NoSell",
+      "AccountBindOnUse"
+    ],
+    "restrictions": [],
+    "id": 97496,
+    "chat_link": "[&AgHYfAEA]",
+    "icon": "https://render.guildwars2.com/file/D0A2CF54A1B37D557F0FE0036634412222BFCD95/2594436.png",
+    "details": {
+      "type": "Default"
+	  
+	  Acquisition
+Boreal Fish (chance)
+Brackish Janthir Fish (chance)
+Lowland Brackish Fish (chance)
+Rare Fish (chance)
+	  
+    }
+  }
+]
+
+[
+  {
+    "name": "King Salmon",
+    "description": "Double-click to convert to materials.",
+    "type": "Container",
+    "level": 0,
+    "rarity": "Rare",
+    "vendor_value": 192,
+    "game_types": [
+      "PvpLobby",
+      "Activity",
+      "Wvw",
+      "Dungeon",
+      "Pve"
+    ],
+    "flags": [
+      "AccountBound",
+      "NoSalvage",
+      "NoSell",
+      "AccountBindOnUse"
+    ],
+    "restrictions": [],
+    "id": 95822,
+    "chat_link": "[&AgFOdgEA]",
+    "icon": "https://render.guildwars2.com/file/D1ADF20AA101C23F016D512898CC082C45A40BFD/2594446.png",
+    "details": {
+      "type": "Default"
+	  
+	  Acquisition
+Barrens Freshwater Fish (chance)
+Bloodstone-Infused Pond Fish (chance)
+Boreal Fish (chance)
+Brackish Janthir Fish (chance)
+Freshwater Janthir Fish (chance)
+Lake Fish (chance)
+Lowland Brackish Fish (chance)
+Lowland Freshwater Fish (chance)
+Lowland Offshore Fish (chance)
+Lowland Shore Fish (chance)
+Offshore Saltwater Janthir Fish (chance)
+Rare Fish (chance)
+Shore Saltwater Janthir Fish (chance)
+	  
+    }
+  }
+]
+
+[
+  {
+    "name": "Queen Parrotfish",
+    "description": "Double-click to convert to materials.",
+    "type": "Container",
+    "level": 0,
+    "rarity": "Rare",
+    "vendor_value": 192,
+    "game_types": [
+      "PvpLobby",
+      "Activity",
+      "Wvw",
+      "Dungeon",
+      "Pve"
+    ],
+    "flags": [
+      "AccountBound",
+      "NoSalvage",
+      "NoSell",
+      "AccountBindOnUse"
+    ],
+    "restrictions": [],
+    "id": 103511,
+    "chat_link": "[&AgFXlAEA]",
+    "icon": "https://render.guildwars2.com/file/95032BA24A64DE470CBA417D00324767D50D0764/3374948.png",
+    "details": {
+      "type": "Default"
+	  
+	  Acquisition
+Offshore Saltwater Janthir Fish (chance)
+Shore Saltwater Janthir Fish (chance)
+	  
+    }
+  }
+]
+
+[
+  {
+    "name": "Rainbow Trout",
+    "description": "Double-click to convert to materials.",
+    "type": "Container",
+    "level": 0,
+    "rarity": "Rare",
+    "vendor_value": 192,
+    "game_types": [
+      "PvpLobby",
+      "Activity",
+      "Wvw",
+      "Dungeon",
+      "Pve"
+    ],
+    "flags": [
+      "AccountBound",
+      "NoSalvage",
+      "NoSell",
+      "AccountBindOnUse"
+    ],
+    "restrictions": [],
+    "id": 96226,
+    "chat_link": "[&AgHidwEA]",
+    "icon": "https://render.guildwars2.com/file/DD6912676490217EA8DC5A99B29CA7B50923C2FB/2594612.png",
+    "details": {
+      "type": "Default"
+	  
+	  Acquisition
+Barrens Freshwater Fish (chance)
+Bloodstone-Infused Pond Fish (chance)
+Freshwater Janthir Fish (chance)
+Lake Fish (chance)
+Lowland Freshwater Fish (chance)
+	  
+    }
+  }
+]
+
+[
+  {
+    "name": "Rockfish",
+    "description": "Double-click to convert to materials.",
+    "type": "Container",
+    "level": 0,
+    "rarity": "Rare",
+    "vendor_value": 192,
+    "game_types": [
+      "PvpLobby",
+      "Activity",
+      "Wvw",
+      "Dungeon",
+      "Pve"
+    ],
+    "flags": [
+      "AccountBound",
+      "NoSalvage",
+      "NoSell",
+      "AccountBindOnUse"
+    ],
+    "restrictions": [],
+    "id": 97241,
+    "chat_link": "[&AgHZewEA]",
+    "icon": "https://render.guildwars2.com/file/DF46D09F3AD5DAAE520DCD0600AD77110F30D6A9/2594469.png",
+    "details": {
+      "type": "Default"
+	  
+	  Acquisition
+Brackish Janthir Fish (chance)
+Coastal Fish (chance)
+Deep World Saltwater Fish (chance)
+Fractured Channel Fish (chance)
+Freshwater Tropical Fish (chance)
+Lowland Offshore Fish (chance)
+Lowland Shore Fish (chance)
+Mysterious Waters Fish (chance)
+Offshore Fish (chance)
+Offshore Saltwater Janthir Fish (chance)
+Open Water (chance)
+Saltwater Fish (chance)
+Saltwater Tropical Fish (chance)
+Shore Fish (chance)
+Shore Saltwater Janthir Fish (chance)
+Volcanic Fish (chance)
+	  
+    }
+  }
+]
+
+[
+  {
+    "name": "Indigo Drakefish",
+    "description": "Double-click to convert to materials.",
+    "type": "Container",
+    "level": 0,
+    "rarity": "Exotic",
+    "vendor_value": 256,
+    "game_types": [
+      "PvpLobby",
+      "Activity",
+      "Wvw",
+      "Dungeon",
+      "Pve"
+    ],
+    "flags": [
+      "AccountBound",
+      "NoSalvage",
+      "NoSell",
+      "AccountBindOnUse"
+    ],
+    "restrictions": [],
+    "id": 102667,
+    "chat_link": "[&AgELkQEA]",
+    "icon": "https://render.guildwars2.com/file/5FDA0D650570C14BBE3EA34B049E35A89C912907/3374945.png",
+    "details": {
+      "type": "Default"
+	Acquisition
+Brackish Janthir Fish (chance)
+Freshwater Janthir Fish (chance)
+Offshore Saltwater Janthir Fish (chance)
+Shore Saltwater Janthir Fish (chance)
+	  
+    }
+  }
+]
+
+[
+  {
+    "name": "Longhorn Boxfish",
+    "description": "Double-click to convert to materials.",
+    "type": "Container",
+    "level": 0,
+    "rarity": "Exotic",
+    "vendor_value": 256,
+    "game_types": [
+      "PvpLobby",
+      "Activity",
+      "Wvw",
+      "Dungeon",
+      "Pve"
+    ],
+    "flags": [
+      "AccountBound",
+      "NoSalvage",
+      "NoSell",
+      "AccountBindOnUse"
+    ],
+    "restrictions": [],
+    "id": 102600,
+    "chat_link": "[&AgHIkAEA]",
+    "icon": "https://render.guildwars2.com/file/3196AF013933E6E0ACCFDA60651ECCB4CE1FD9E2/3374943.png",
+    "details": {
+      "type": "Default"
+	  Acquisition
+Brackish Janthir Fish (chance)
+Offshore Saltwater Janthir Fish (chance)
+Shore Saltwater Janthir Fish (chance)
+	  
+    }
+  }
+]

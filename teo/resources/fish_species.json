@@ -1,18 +1,142 @@
 {
+    "metadata": {
+        "version": "2.0.0",
+        "source": "Guild Wars 2 Wiki / Guild Wars 2 API",
+        "description": "Fish species knowledge used by Scout.",
+        "last_verified": "2026-07-20"
+    },
+
     "fish": [
         {
-            "fish_id": "",
-
-            "name": "",
-
+            "fish_id": "fish_0001",
+            "gw2_item_id": 0,
+            "name": "Bluefin Trevally",
             "rarity": "",
-
-            "region": "",
-
-            "minimum_fishing_power": 0,
-
+            "pool_ids": [],
+            "vendor_value": 0,
+            "chat_link": "",
+            "icon_url": "",
             "wiki_url": "",
-
+            "notes": ""
+        },
+        {
+            "fish_id": "fish_0002",
+            "gw2_item_id": 0,
+            "name": "Crescent Sailfish",
+            "rarity": "",
+            "pool_ids": [],
+            "vendor_value": 0,
+            "chat_link": "",
+            "icon_url": "",
+            "wiki_url": "",
+            "notes": ""
+        },
+        {
+            "fish_id": "fish_0003",
+            "gw2_item_id": 0,
+            "name": "Dusk Striker",
+            "rarity": "",
+            "pool_ids": [],
+            "vendor_value": 0,
+            "chat_link": "",
+            "icon_url": "",
+            "wiki_url": "",
+            "notes": ""
+        },
+        {
+            "fish_id": "fish_0004",
+            "gw2_item_id": 0,
+            "name": "Ghostfin Eel",
+            "rarity": "",
+            "pool_ids": [],
+            "vendor_value": 0,
+            "chat_link": "",
+            "icon_url": "",
+            "wiki_url": "",
+            "notes": ""
+        },
+        {
+            "fish_id": "fish_0005",
+            "gw2_item_id": 0,
+            "name": "Golden Spotted Grouper",
+            "rarity": "",
+            "pool_ids": [],
+            "vendor_value": 0,
+            "chat_link": "",
+            "icon_url": "",
+            "wiki_url": "",
+            "notes": ""
+        },
+        {
+            "fish_id": "fish_0006",
+            "gw2_item_id": 0,
+            "name": "Icebreaker Pike",
+            "rarity": "",
+            "pool_ids": [],
+            "vendor_value": 0,
+            "chat_link": "",
+            "icon_url": "",
+            "wiki_url": "",
+            "notes": ""
+        },
+        {
+            "fish_id": "fish_0007",
+            "gw2_item_id": 0,
+            "name": "Ironjaw Snapper",
+            "rarity": "",
+            "pool_ids": [],
+            "vendor_value": 0,
+            "chat_link": "",
+            "icon_url": "",
+            "wiki_url": "",
+            "notes": ""
+        },
+        {
+            "fish_id": "fish_0008",
+            "gw2_item_id": 0,
+            "name": "Moonlit Barracuda",
+            "rarity": "",
+            "pool_ids": [],
+            "vendor_value": 0,
+            "chat_link": "",
+            "icon_url": "",
+            "wiki_url": "",
+            "notes": ""
+        },
+        {
+            "fish_id": "fish_0009",
+            "gw2_item_id": 0,
+            "name": "Redfin Perch",
+            "rarity": "",
+            "pool_ids": [],
+            "vendor_value": 0,
+            "chat_link": "",
+            "icon_url": "",
+            "wiki_url": "",
+            "notes": ""
+        },
+        {
+            "fish_id": "fish_0010",
+            "gw2_item_id": 0,
+            "name": "Sunscale Salmon",
+            "rarity": "",
+            "pool_ids": [],
+            "vendor_value": 0,
+            "chat_link": "",
+            "icon_url": "",
+            "wiki_url": "",
+            "notes": ""
+        },
+        {
+            "fish_id": "fish_0011",
+            "gw2_item_id": 0,
+            "name": "Longhorn Boxfish",
+            "rarity": "",
+            "pool_ids": [],
+            "vendor_value": 0,
+            "chat_link": "",
+            "icon_url": "",
+            "wiki_url": "",
             "notes": ""
         }
     ]

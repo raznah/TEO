@@ -1,23 +1,23 @@
 """
-Daily Rotation knowledge module.
+Daily Rotation Knowledge
 
-Provides access to today's Daily Catch rotation.
+Loads today's Daily Catch rotation.
 """
 
-import json
-from pathlib import Path
-
-
-DATA_FILE = Path(__file__).resolve().parent.parent / "resources" / "daily_rotation.json"
+from teo.knowledge.loader import load_json
 
 
 def load_daily_rotation():
     """
-    Load today's Daily Catch rotation.
-
-    Returns:
-        dict: Daily rotation data.
+    Load the Daily Catch rotation.
     """
 
-    with DATA_FILE.open(encoding="utf-8") as file:
-        return json.load(file)
+    return load_json("daily_rotation.json")
+
+
+def get_daily_rotation():
+    """
+    Return today's Daily Catch rotation.
+    """
+
+    return load_daily_rotation()

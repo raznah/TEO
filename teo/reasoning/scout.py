@@ -1,33 +1,35 @@
 """
-Scout reasoning engine.
+Scout
 
-Scout combines knowledge and current state to produce recommendations.
+Scout presents recommendations produced by the reasoning engine.
 """
 
-from teo.knowledge.daily_catch import load_daily_catch
-from teo.knowledge.daily_rotation import load_daily_rotation
-from teo.knowledge.fish_species import load_fish_species
+from teo.reasoning.engine import get_top_recommendation
 
 
 def get_daily_recommendation():
     """
-    Generate Scout's first recommendation.
-
-    Returns:
-        dict: Recommendation information for the dashboard.
+    Return today's best recommendation.
     """
 
-    daily_catch = load_daily_catch()
-    rotation = load_daily_rotation()
-    fish = load_fish_species()
+    recommendation = get_top_recommendation()
+
+    if recommendation is None:
+        return {
+            "title": "Scout",
+
+            "message": "I don't have any recommendations yet."
+        }
+
+    message = (
+        f"I recommend today's Daily Catch: "
+        f"{recommendation['target']}."
+    )
 
     return {
-        "title": "Scout's Recommendation",
-        "message": (
-            "Good morning! I've explored Tyria and gathered today's "
-            "Daily Catch information."
-        ),
-        "daily_catch": daily_catch,
-        "daily_rotation": rotation,
-        "fish_species": fish,
+        "title": recommendation["title"],
+
+        "message": message,
+
+        "recommendation": recommendation
     }
