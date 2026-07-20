@@ -1,143 +1,224 @@
 {
-    "metadata": {
-        "version": "2.0.0",
-        "source": "Guild Wars 2 Wiki / Guild Wars 2 API",
-        "description": "Fish species knowledge used by Scout.",
-        "last_verified": "2026-07-20"
+  "fish": [
+    {
+      "fish_id": "lowland_grunt",
+      "name": "Lowland Grunt",
+      "rarity": "Fine",
+      "map_ids": [
+        "lowland_shore"
+      ],
+      "fishing_hole_ids": [
+        "freshwater",
+        "brackish_water"
+      ],
+      "favored_bait_id": "any",
+      "time": {
+        "available": "any",
+        "preferred": "day"
+      },
+      "wiki_slug": "Lowland_Grunt",
+      "notes": ""
     },
-
-    "fish": [
-        {
-            "fish_id": "fish_0001",
-            "gw2_item_id": 0,
-            "name": "Bluefin Trevally",
-            "rarity": "",
-            "pool_ids": [],
-            "vendor_value": 0,
-            "chat_link": "",
-            "icon_url": "",
-            "wiki_url": "",
-            "notes": ""
-        },
-        {
-            "fish_id": "fish_0002",
-            "gw2_item_id": 0,
-            "name": "Crescent Sailfish",
-            "rarity": "",
-            "pool_ids": [],
-            "vendor_value": 0,
-            "chat_link": "",
-            "icon_url": "",
-            "wiki_url": "",
-            "notes": ""
-        },
-        {
-            "fish_id": "fish_0003",
-            "gw2_item_id": 0,
-            "name": "Dusk Striker",
-            "rarity": "",
-            "pool_ids": [],
-            "vendor_value": 0,
-            "chat_link": "",
-            "icon_url": "",
-            "wiki_url": "",
-            "notes": ""
-        },
-        {
-            "fish_id": "fish_0004",
-            "gw2_item_id": 0,
-            "name": "Ghostfin Eel",
-            "rarity": "",
-            "pool_ids": [],
-            "vendor_value": 0,
-            "chat_link": "",
-            "icon_url": "",
-            "wiki_url": "",
-            "notes": ""
-        },
-        {
-            "fish_id": "fish_0005",
-            "gw2_item_id": 0,
-            "name": "Golden Spotted Grouper",
-            "rarity": "",
-            "pool_ids": [],
-            "vendor_value": 0,
-            "chat_link": "",
-            "icon_url": "",
-            "wiki_url": "",
-            "notes": ""
-        },
-        {
-            "fish_id": "fish_0006",
-            "gw2_item_id": 0,
-            "name": "Icebreaker Pike",
-            "rarity": "",
-            "pool_ids": [],
-            "vendor_value": 0,
-            "chat_link": "",
-            "icon_url": "",
-            "wiki_url": "",
-            "notes": ""
-        },
-        {
-            "fish_id": "fish_0007",
-            "gw2_item_id": 0,
-            "name": "Ironjaw Snapper",
-            "rarity": "",
-            "pool_ids": [],
-            "vendor_value": 0,
-            "chat_link": "",
-            "icon_url": "",
-            "wiki_url": "",
-            "notes": ""
-        },
-        {
-            "fish_id": "fish_0008",
-            "gw2_item_id": 0,
-            "name": "Moonlit Barracuda",
-            "rarity": "",
-            "pool_ids": [],
-            "vendor_value": 0,
-            "chat_link": "",
-            "icon_url": "",
-            "wiki_url": "",
-            "notes": ""
-        },
-        {
-            "fish_id": "fish_0009",
-            "gw2_item_id": 0,
-            "name": "Redfin Perch",
-            "rarity": "",
-            "pool_ids": [],
-            "vendor_value": 0,
-            "chat_link": "",
-            "icon_url": "",
-            "wiki_url": "",
-            "notes": ""
-        },
-        {
-            "fish_id": "fish_0010",
-            "gw2_item_id": 0,
-            "name": "Sunscale Salmon",
-            "rarity": "",
-            "pool_ids": [],
-            "vendor_value": 0,
-            "chat_link": "",
-            "icon_url": "",
-            "wiki_url": "",
-            "notes": ""
-        },
-        {
-            "fish_id": "fish_0011",
-            "gw2_item_id": 0,
-            "name": "Longhorn Boxfish",
-            "rarity": "",
-            "pool_ids": [],
-            "vendor_value": 0,
-            "chat_link": "",
-            "icon_url": "",
-            "wiki_url": "",
-            "notes": ""
-        }
-    ]
+    {
+      "fish_id": "shaderock_salamander",
+      "name": "Shaderock Salamander",
+      "rarity": "Rare",
+      "map_ids": [
+        "lowland_shore"
+      ],
+      "fishing_hole_ids": [
+        "saltwater",
+        "brackish_water"
+      ],
+      "favored_bait_id": "any",
+      "time": {
+        "available": "any",
+        "preferred": null
+      },
+      "wiki_slug": "Shaderock_Salamander",
+      "notes": ""
+    },
+    {
+      "fish_id": "mohawk_bream",
+      "name": "Mohawk Bream",
+      "rarity": "Rare",
+      "map_ids": [
+        "lowland_shore"
+      ],
+      "fishing_hole_ids": [
+        "any"
+      ],
+      "favored_bait_id": "any",
+      "time": {
+        "available": "any",
+        "preferred": "day"
+      },
+      "wiki_slug": "Mohawk_Bream",
+      "notes": ""
+    },
+    {
+      "fish_id": "spectacled_lumper",
+      "name": "Spectacled Lumper",
+      "rarity": "Rare",
+      "map_ids": [
+        "lowland_shore"
+      ],
+      "fishing_hole_ids": [
+        "any"
+      ],
+      "favored_bait_id": "any",
+      "time": {
+        "available": "any",
+        "preferred": "night"
+      },
+      "wiki_slug": "Spectacled_Lumper",
+      "notes": ""
+    },
+    {
+      "fish_id": "violet_screamer",
+      "name": "Violet Screamer",
+      "rarity": "Exotic",
+      "map_ids": [
+        "lowland_shore"
+      ],
+      "fishing_hole_ids": [
+        "any"
+      ],
+      "favored_bait_id": "any",
+      "time": {
+        "available": "any",
+        "preferred": "night"
+      },
+      "wiki_slug": "Violet_Screamer",
+      "notes": ""
+    },
+    {
+      "fish_id": "viperfish",
+      "name": "Viperfish",
+      "rarity": "Exotic",
+      "map_ids": [
+        "lowland_shore"
+      ],
+      "fishing_hole_ids": [
+        "any"
+      ],
+      "favored_bait_id": "any",
+      "time": {
+        "available": "any",
+        "preferred": "night"
+      },
+      "wiki_slug": "Viperfish_(Janthir)",
+      "notes": ""
+    },
+    {
+      "fish_id": "juvenile_frogfish",
+      "name": "Juvenile Frogfish",
+      "rarity": "Fine",
+      "map_ids": [
+        "janthir_syntri"
+      ],
+      "fishing_hole_ids": [
+        "freshwater",
+        "brackish_water"
+      ],
+      "favored_bait_id": "any",
+      "time": {
+        "available": "any",
+        "preferred": "night"
+      },
+      "wiki_slug": "Juvenile_Frogfish",
+      "notes": ""
+    },
+    {
+      "fish_id": "flowerhead",
+      "name": "Flowerhead",
+      "rarity": "Rare",
+      "map_ids": [
+        "janthir_syntri"
+      ],
+      "fishing_hole_ids": [
+        "any"
+      ],
+      "favored_bait_id": "any",
+      "time": {
+        "available": "any",
+        "preferred": "day"
+      },
+      "wiki_slug": "Flowerhead",
+      "notes": ""
+    },
+    {
+      "fish_id": "queen_parrotfish",
+      "name": "Queen Parrotfish",
+      "rarity": "Rare",
+      "map_ids": [
+        "janthir_syntri"
+      ],
+      "fishing_hole_ids": [
+        "saltwater"
+      ],
+      "favored_bait_id": "any",
+      "time": {
+        "available": "any",
+        "preferred": null
+      },
+      "wiki_slug": "Queen_Parrotfish",
+      "notes": ""
+    },
+    {
+      "fish_id": "indigo_drakefish",
+      "name": "Indigo Drakefish",
+      "rarity": "Exotic",
+      "map_ids": [
+        "janthir_syntri"
+      ],
+      "fishing_hole_ids": [
+        "any"
+      ],
+      "favored_bait_id": "any",
+      "time": {
+        "available": "any",
+        "preferred": null
+      },
+      "wiki_slug": "Indigo_Drakefish",
+      "notes": ""
+    },
+    {
+      "fish_id": "longhorn_boxfish",
+      "name": "Longhorn Boxfish",
+      "rarity": "Exotic",
+      "map_ids": [
+        "janthir_syntri"
+      ],
+      "fishing_hole_ids": [
+        "saltwater",
+        "brackish_water"
+      ],
+      "favored_bait_id": "any",
+      "time": {
+        "available": "any",
+        "preferred": null
+      },
+      "wiki_slug": "Longhorn_Boxfish",
+      "notes": ""
+    },
+    {
+      "fish_id": "mouse_eared_octopus",
+      "name": "Mouse-Eared Octopus",
+      "rarity": "Exotic",
+      "map_ids": [
+        "janthir_syntri"
+      ],
+      "fishing_hole_ids": [
+        "saltwater"
+      ],
+      "favored_bait_id": "any",
+      "time": {
+        "available": "any",
+        "preferred": "night"
+      },
+      "wiki_slug": "Mouse-Eared_Octopus",
+      "notes": ""
+    }
+  ]
 }

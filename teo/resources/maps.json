@@ -1,0 +1,316 @@
+{
+  "maps": [
+    {
+      "map_id": "lowland_shore",
+      "name": "Lowland Shore",
+      "expansion_id": "janthir_wilds",
+      "region_id": "janthir",
+      "wiki_slug": "Lowland_Shore",
+      "notes": ""
+    },
+    {
+      "map_id": "janthir_syntri",
+      "name": "Janthir Syntri",
+      "expansion_id": "janthir_wilds",
+      "region_id": "janthir",
+      "wiki_slug": "Janthir_Syntri",
+      "notes": ""
+    },
+    {
+      "map_id": "mistburned_barrens",
+      "name": "Mistburned Barrens",
+      "expansion_id": "janthir_wilds",
+      "region_id": "janthir",
+      "wiki_slug": "Mistburned_Barrens",
+      "notes": ""
+    },
+    {
+      "map_id": "castora",
+      "name": "Castora",
+      "expansion_id": "janthir_wilds",
+      "region_id": "janthir",
+      "wiki_slug": "Castora",
+      "notes": ""
+    },
+    {
+      "map_id": "seitung_province",
+      "name": "Seitung Province",
+      "expansion_id": "end_of_dragons",
+      "region_id": "cantha",
+      "wiki_slug": "Seitung_Province",
+      "notes": ""
+    },
+    {
+      "map_id": "new_kaineng_city",
+      "name": "New Kaineng City",
+      "expansion_id": "end_of_dragons",
+      "region_id": "cantha",
+      "wiki_slug": "New_Kaineng_City",
+      "notes": ""
+    },
+    {
+      "map_id": "echovald_wilds",
+      "name": "Echovald Wilds",
+      "expansion_id": "end_of_dragons",
+      "region_id": "cantha",
+      "wiki_slug": "Echovald_Wilds",
+      "notes": ""
+    },
+    {
+      "map_id": "dragons_end",
+      "name": "Dragon's End",
+      "expansion_id": "end_of_dragons",
+      "region_id": "cantha",
+      "wiki_slug": "Dragon%27s_End",
+      "notes": ""
+    },
+    {
+      "map_id": "sandswept_isles",
+      "name": "Sandswept Isles",
+      "expansion_id": "living_world_season_4",
+      "region_id": "crystal_desert",
+      "wiki_slug": "Sandswept_Isles",
+      "notes": ""
+    },
+    {
+      "map_id": "domain_of_istan",
+      "name": "Domain of Istan",
+      "expansion_id": "living_world_season_4",
+      "region_id": "crystal_desert",
+      "wiki_slug": "Domain_of_Istan",
+      "notes": ""
+    },
+    {
+      "map_id": "domain_of_kourna",
+      "name": "Domain of Kourna",
+      "expansion_id": "living_world_season_4",
+      "region_id": "crystal_desert",
+      "wiki_slug": "Domain_of_Kourna",
+      "notes": ""
+    },
+    {
+      "map_id": "jahai_bluffs",
+      "name": "Jahai Bluffs",
+      "expansion_id": "living_world_season_4",
+      "region_id": "crystal_desert",
+      "wiki_slug": "Jahai_Bluffs",
+      "notes": ""
+    },
+    {
+      "map_id": "thunderhead_peaks",
+      "name": "Thunderhead Peaks",
+      "expansion_id": "living_world_season_4",
+      "region_id": "shiverpeak_mountains",
+      "wiki_slug": "Thunderhead_Peaks",
+      "notes": ""
+    },
+    {
+      "map_id": "dragonfall",
+      "name": "Dragonfall",
+      "expansion_id": "living_world_season_4",
+      "region_id": "crystal_desert",
+      "wiki_slug": "Dragonfall",
+      "notes": ""
+    },
+    {
+      "map_id": "verdant_brink",
+      "name": "Verdant Brink",
+      "expansion_id": "heart_of_thorns",
+      "region_id": "heart_of_maguuma",
+      "wiki_slug": "Verdant_Brink",
+      "notes": ""
+    },
+    {
+      "map_id": "auric_basin",
+      "name": "Auric Basin",
+      "expansion_id": "heart_of_thorns",
+      "region_id": "heart_of_maguuma",
+      "wiki_slug": "Auric_Basin",
+      "notes": ""
+    },
+    {
+      "map_id": "tangled_depths",
+      "name": "Tangled Depths",
+      "expansion_id": "heart_of_thorns",
+      "region_id": "heart_of_maguuma",
+      "wiki_slug": "Tangled_Depths",
+      "notes": ""
+    },
+    {
+      "map_id": "dragons_stand",
+      "name": "Dragon's Stand",
+      "expansion_id": "heart_of_thorns",
+      "region_id": "heart_of_maguuma",
+      "wiki_slug": "Dragon%27s_Stand",
+      "notes": ""
+    },
+    {
+      "map_id": "bloodstone_fen",
+      "name": "Bloodstone Fen",
+      "expansion_id": "living_world_season_3",
+      "region_id": "kryta",
+      "wiki_slug": "Bloodstone_Fen",
+      "notes": ""
+    },
+    {
+      "map_id": "ember_bay",
+      "name": "Ember Bay",
+      "expansion_id": "living_world_season_3",
+      "region_id": "ring_of_fire",
+      "wiki_slug": "Ember_Bay",
+      "notes": ""
+    },
+    {
+      "map_id": "bitterfrost_frontier",
+      "name": "Bitterfrost Frontier",
+      "expansion_id": "living_world_season_3",
+      "region_id": "shiverpeak_mountains",
+      "wiki_slug": "Bitterfrost_Frontier",
+      "notes": ""
+    },
+    {
+      "map_id": "lake_doric",
+      "name": "Lake Doric",
+      "expansion_id": "living_world_season_3",
+      "region_id": "kryta",
+      "wiki_slug": "Lake_Doric",
+      "notes": ""
+    },
+    {
+      "map_id": "draconis_mons",
+      "name": "Draconis Mons",
+      "expansion_id": "living_world_season_3",
+      "region_id": "ring_of_fire",
+      "wiki_slug": "Draconis_Mons",
+      "notes": ""
+    },
+    {
+      "map_id": "sirens_landing",
+      "name": "Siren's Landing",
+      "expansion_id": "living_world_season_3",
+      "region_id": "ring_of_fire",
+      "wiki_slug": "Siren%27s_Landing",
+      "notes": ""
+    },
+    {
+      "map_id": "crystal_oasis",
+      "name": "Crystal Oasis",
+      "expansion_id": "path_of_fire",
+      "region_id": "crystal_desert",
+      "wiki_slug": "Crystal_Oasis",
+      "notes": ""
+    },
+    {
+      "map_id": "desolation",
+      "name": "The Desolation",
+      "expansion_id": "path_of_fire",
+      "region_id": "crystal_desert",
+      "wiki_slug": "The_Desolation",
+      "notes": ""
+    },
+    {
+      "map_id": "elon_riverlands",
+      "name": "Elon Riverlands",
+      "expansion_id": "path_of_fire",
+      "region_id": "crystal_desert",
+      "wiki_slug": "Elon_Riverlands",
+      "notes": ""
+    },
+    {
+      "map_id": "desert_highlands",
+      "name": "Desert Highlands",
+      "expansion_id": "path_of_fire",
+      "region_id": "crystal_desert",
+      "wiki_slug": "Desert_Highlands",
+      "notes": ""
+    },
+    {
+      "map_id": "domain_of_vabbi",
+      "name": "Domain of Vabbi",
+      "expansion_id": "path_of_fire",
+      "region_id": "crystal_desert",
+      "wiki_slug": "Domain_of_Vabbi",
+      "notes": ""
+    },
+    {
+      "map_id": "skywatch_archipelago",
+      "name": "Skywatch Archipelago",
+      "expansion_id": "secrets_of_the_obscure",
+      "region_id": "astral_ward",
+      "wiki_slug": "Skywatch_Archipelago",
+      "notes": ""
+    },
+    {
+      "map_id": "amnytas",
+      "name": "Amnytas",
+      "expansion_id": "secrets_of_the_obscure",
+      "region_id": "astral_ward",
+      "wiki_slug": "Amnytas",
+      "notes": ""
+    },
+    {
+      "map_id": "inner_nayos",
+      "name": "Inner Nayos",
+      "expansion_id": "secrets_of_the_obscure",
+      "region_id": "realm_of_dreams",
+      "wiki_slug": "Inner_Nayos",
+      "notes": ""
+    },
+    {
+      "map_id": "wizards_tower",
+      "name": "Wizard's Tower",
+      "expansion_id": "secrets_of_the_obscure",
+      "region_id": "astral_ward",
+      "wiki_slug": "Wizard%27s_Tower",
+      "notes": ""
+    },
+    {
+      "map_id": "eye_of_the_north",
+      "name": "Eye of the North",
+      "expansion_id": "icebrood_saga",
+      "region_id": "far_shiverpeaks",
+      "wiki_slug": "Eye_of_the_North",
+      "notes": ""
+    },
+    {
+      "map_id": "grothmar_valley",
+      "name": "Grothmar Valley",
+      "expansion_id": "icebrood_saga",
+      "region_id": "ascalon",
+      "wiki_slug": "Grothmar_Valley",
+      "notes": ""
+    },
+    {
+      "map_id": "bjora_marches",
+      "name": "Bjora Marches",
+      "expansion_id": "icebrood_saga",
+      "region_id": "far_shiverpeaks",
+      "wiki_slug": "Bjora_Marches",
+      "notes": ""
+    },
+    {
+      "map_id": "drizzlewood_coast",
+      "name": "Drizzlewood Coast",
+      "expansion_id": "icebrood_saga",
+      "region_id": "far_shiverpeaks",
+      "wiki_slug": "Drizzlewood_Coast",
+      "notes": ""
+    },
+    {
+      "map_id": "dragonstorm",
+      "name": "Dragonstorm",
+      "expansion_id": "icebrood_saga",
+      "region_id": "far_shiverpeaks",
+      "wiki_slug": "Dragonstorm",
+      "notes": ""
+    },
+    {
+      "map_id": "suns_refuge",
+      "name": "Sun's Refuge",
+      "expansion_id": "living_world_season_4",
+      "region_id": "crystal_desert",
+      "wiki_slug": "Sun%27s_Refuge",
+      "notes": ""
+    }
+  ]
+}

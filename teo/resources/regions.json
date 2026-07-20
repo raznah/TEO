@@ -1,0 +1,82 @@
+{
+  "regions": [
+    {
+      "region_id": "central_tyria",
+      "name": "Central Tyria",
+      "wiki_slug": "Central_Tyria",
+      "notes": ""
+    },
+    {
+      "region_id": "ascalon",
+      "name": "Ascalon",
+      "wiki_slug": "Ascalon",
+      "notes": ""
+    },
+    {
+      "region_id": "kryta",
+      "name": "Kryta",
+      "wiki_slug": "Kryta",
+      "notes": ""
+    },
+    {
+      "region_id": "shiverpeak_mountains",
+      "name": "Shiverpeak Mountains",
+      "wiki_slug": "Shiverpeak_Mountains",
+      "notes": ""
+    },
+    {
+      "region_id": "far_shiverpeaks",
+      "name": "Far Shiverpeaks",
+      "wiki_slug": "Far_Shiverpeaks",
+      "notes": ""
+    },
+    {
+      "region_id": "maguuma_jungle",
+      "name": "Maguuma Jungle",
+      "wiki_slug": "Maguuma_Jungle",
+      "notes": ""
+    },
+    {
+      "region_id": "heart_of_maguuma",
+      "name": "Heart of Maguuma",
+      "wiki_slug": "Heart_of_Maguuma",
+      "notes": ""
+    },
+    {
+      "region_id": "ring_of_fire",
+      "name": "Ring of Fire",
+      "wiki_slug": "Ring_of_Fire",
+      "notes": ""
+    },
+    {
+      "region_id": "crystal_desert",
+      "name": "Crystal Desert",
+      "wiki_slug": "Crystal_Desert",
+      "notes": ""
+    },
+    {
+      "region_id": "cantha",
+      "name": "Cantha",
+      "wiki_slug": "Cantha",
+      "notes": ""
+    },
+    {
+      "region_id": "janthir",
+      "name": "Janthir",
+      "wiki_slug": "Janthir",
+      "notes": ""
+    },
+    {
+      "region_id": "astral_ward",
+      "name": "Astral Ward",
+      "wiki_slug": "Astral_Ward",
+      "notes": ""
+    },
+    {
+      "region_id": "realm_of_dreams",
+      "name": "Realm of Dreams",
+      "wiki_slug": "Realm_of_Dreams",
+      "notes": ""
+    }
+  ]
+}
