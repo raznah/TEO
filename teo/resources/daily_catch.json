@@ -1,6 +1,4 @@
 {
-    "date": "2026-07-17",
-
     "routes": [
         {
             "route_id": "arborstone",
@@ -9,18 +7,23 @@
 
             "region": "Cantha",
 
+            "fish_id": "",
+
             "fish_name": "",
 
             "rarity": "",
 
-            "recommended_fishing_power": 0,
+            "minimum_fishing_power": 0,
 
-            "vendor_group": "arborstone",
+            "exchange_group": "arborstone",
 
-            "reward": {
-                "item_name": "",
-                "quantity": 0
-            },
+            "rewards": [
+                {
+                    "item_name": "",
+                    "quantity": 0,
+                    "wiki_url": ""
+                }
+            ],
 
             "fish_wiki_url": "",
 
@@ -35,24 +38,29 @@
 
             "region": "Janthir Wilds",
 
+            "fish_id": "",
+
             "fish_name": "",
 
             "rarity": "",
 
-            "recommended_fishing_power": 0,
+            "minimum_fishing_power": 0,
 
-            "vendor_group": "janthir_shared",
+            "exchange_group": "janthir",
 
-            "reward": {
-                "item_name": "",
-                "quantity": 0
-            },
+            "rewards": [
+                {
+                    "item_name": "",
+                    "quantity": 0,
+                    "wiki_url": ""
+                }
+            ],
 
             "fish_wiki_url": "",
 
             "location_wiki_url": "",
 
-            "notes": "Shares vendor with Janthir Syntri."
+            "notes": "Shares the same exchange as Janthir Syntri."
         },
         {
             "route_id": "janthir_syntri",
@@ -61,24 +69,29 @@
 
             "region": "Janthir Wilds",
 
+            "fish_id": "",
+
             "fish_name": "",
 
             "rarity": "",
 
-            "recommended_fishing_power": 0,
+            "minimum_fishing_power": 0,
 
-            "vendor_group": "janthir_shared",
+            "exchange_group": "janthir",
 
-            "reward": {
-                "item_name": "",
-                "quantity": 0
-            },
+            "rewards": [
+                {
+                    "item_name": "",
+                    "quantity": 0,
+                    "wiki_url": ""
+                }
+            ],
 
             "fish_wiki_url": "",
 
             "location_wiki_url": "",
 
-            "notes": "Shares vendor with Lowland Shore."
+            "notes": "Shares the same exchange as Lowland Shore."
         },
         {
             "route_id": "mistburned_barrens",
@@ -87,18 +100,23 @@
 
             "region": "Janthir Wilds",
 
+            "fish_id": "",
+
             "fish_name": "",
 
             "rarity": "",
 
-            "recommended_fishing_power": 0,
+            "minimum_fishing_power": 0,
 
-            "vendor_group": "mistburned_barrens",
+            "exchange_group": "mistburned",
 
-            "reward": {
-                "item_name": "",
-                "quantity": 0
-            },
+            "rewards": [
+                {
+                    "item_name": "",
+                    "quantity": 0,
+                    "wiki_url": ""
+                }
+            ],
 
             "fish_wiki_url": "",
 

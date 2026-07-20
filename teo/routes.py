@@ -5,8 +5,9 @@ from teo.knowledge.festivals import (
     get_next_festival,
 )
 
-from teo.knowledge.recommendations import get_recommendation
 from teo.knowledge.daily_catch import get_daily_catch
+
+from teo.reasoning.scout import get_daily_recommendation
 
 main = Blueprint("main", __name__)
 
@@ -19,7 +20,9 @@ def index():
 
     current_festival = get_current_festival()
     next_festival = get_next_festival()
-    recommendation = get_recommendation()
+
+    recommendation = get_daily_recommendation()
+
     daily_catch = get_daily_catch()
 
     return render_template(

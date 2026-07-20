@@ -99,3 +99,19 @@ The interface should reduce visual fatigue and avoid high-contrast or distractin
 Favor muted colors, generous spacing, clear typography and subtle accents over flashy effects.
 
 Dashboard panels follow a Question → Answer pattern. Labels ask the question; the value directly beneath answers it. This creates a consistent reading pattern across the entire application.
+
+Knowledge stores facts. Reasoning interprets facts. Scout communicates decisions.
+
+Knowledge describes the game. State describes today. Reasoning combines both. Scout communicates the result.
+
+Goal-Driven Recommendations
+
+Scout recommendations are always made in the context of the player's current goal.
+
+Scout does not determine what the player should enjoy.
+
+Instead, Scout answers the question:
+
+"Given your goal today, what is the best next activity?"
+
+Scout prioritizes opportunities but does not hide alternatives.

@@ -1,0 +1,21 @@
+{
+    "date": "",
+
+    "routes": {
+        "arborstone": {
+            "required_fish_id": ""
+        },
+
+        "lowland_shore": {
+            "required_fish_id": ""
+        },
+
+        "janthir_syntri": {
+            "required_fish_id": ""
+        },
+
+        "mistburned_barrens": {
+            "required_fish_id": ""
+        }
+    }
+}
